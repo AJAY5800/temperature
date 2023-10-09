@@ -13,9 +13,5 @@ function convertToFahrenheit() {
     document.getElementById('fahrenheit').value = fahrenheit.toFixed(2);
   }
 }
-This simple temperature converter allows you to input a temperature in either Celsius or Fahrenheit and then convert it to the other unit when you press the corresponding button.
-
-
-
 
 
